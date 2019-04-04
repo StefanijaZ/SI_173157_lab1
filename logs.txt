@@ -1,0 +1,6 @@
+$ git log
+commit 179bdb623fadbf433c123785283d94501ee08922 (HEAD -> logs, origin/master, master)
+Author: Stefanija <sstefani.321@gmail.com>
+Date:   Thu Apr 4 10:25:29 2019 +0200
+
+    Initial commit
